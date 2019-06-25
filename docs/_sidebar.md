@@ -3,6 +3,6 @@
 - :mouse: Web
 - :lemon: Javascript
 
-  <!-- - [ES6](./javascript/2019-06-20-ES6.md) -->
+  - [Array Method](./javascript/2019-06-20-Array-Method.md)
 
 - :100: Algorithm
