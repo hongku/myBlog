@@ -1,7 +1,7 @@
 - :dog: Git
   - [Git Alias](./git/2019-06-21-alias.md)
 - :mouse: Web
-  <!-- - [AMP](./web/2019-06-25-amp.md) -->
+  - [AMP](./web/2019-07-16-amp.md)
 - :lemon: Javascript
 
   - [Array Method](./javascript/2019-06-20-Array-Method.md)
